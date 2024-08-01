@@ -1,6 +1,8 @@
 # Building a Custom Mixture of Experts Model
 
-This repository contains the complete codebase for building and training a Mixture of Experts (MoE) model from scratch [Project guide](https://blog.gopenai.com/building-a-custom-mixture-of-experts-model-for-our-darija-from-tokenization-to-text-generation-b30ba49ae7cc). 
+This repository contains the complete codebase for building and training a Mixture of Experts (MoE) model from scratch. 
+
+For More Information About this Project Check [My Project Guide](https://medium.com/gopenai/building-a-custom-mixture-of-experts-model-for-our-darija-from-tokenization-to-text-generation-b30ba49ae7cc)
 
 
 
